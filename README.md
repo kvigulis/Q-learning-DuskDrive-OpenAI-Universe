@@ -9,7 +9,7 @@ Set up tesorflow or tensorflow-gpu<br>
 Of course, OpenAI Universe<br>
 pip install numpy<br>
 pip install Pillow<br>
-pip install scipy 
+pip install scipy
 
 
 Was based on a tutorial by Hvass-Labs who's author is Magnus Erik Hvass Pedersen.
