@@ -5,10 +5,10 @@ Easy to set up...
 
 Dependencies: 
 
-Set up tesorflow or tensorflow-gpu
-Of course, OpenAI Universe.
-pip install numpy
-pip install Pillow
+Set up tesorflow or tensorflow-gpu<br>
+Of course, OpenAI Universe<br>
+pip install numpy<br>
+pip install Pillow<br>
 pip install scipy 
 
 
