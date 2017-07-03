@@ -7,7 +7,7 @@ Dependencies:
 
 Set up tesorflow or tensorflow-gpu<br>
 Of course, OpenAI Universe<br>
-Other python dependencies:
+Other python dependencies:<br>
 pip install numpy<br>
 pip install Pillow<br>
 pip install scipy
