@@ -1,17 +1,17 @@
 # Q-learning-DuskDrive-OpenAI-Universe
 
 
-Easy to set up...
+Very easy to set up...
 
 Dependencies: 
 
 Set up tesorflow or tensorflow-gpu<br>
 Of course, OpenAI Universe<br>
+Other python dependencies:
 pip install numpy<br>
 pip install Pillow<br>
 pip install scipy
 
+This attempt was inspired from a tutorial by Hvass-Labs who's author is Magnus Erik Hvass Pedersen.
 
-Was based on a tutorial by Hvass-Labs who's author is Magnus Erik Hvass Pedersen.
-
-This is a really minimalistic version with just enough code to run the Q-Learning Algorithm.
+This is a very plain implementation with just the minimum of code required to run the Q-Learning Algorithm.
