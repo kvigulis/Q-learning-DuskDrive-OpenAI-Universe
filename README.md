@@ -12,7 +12,7 @@ pip install numpy<br>
 pip install Pillow<br>
 pip install scipy<br><br>
 
-Run RL.py to start training the agent. TensorFlow checkpoint save every 10 runs of the game by default.
+Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs of the game by default.
 
 This attempt was inspired from a tutorial by Hvass-Labs who's author is Magnus Erik Hvass Pedersen.
 
