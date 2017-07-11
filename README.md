@@ -5,7 +5,7 @@ Easy to set up...
 
 Dependencies: 
 
-<t>Set up tesorflow or tensorflow-gpu:<br>
+<tab>Set up tesorflow or tensorflow-gpu:<br>
 For help refer to this slightly outdated resource on how to set up CUDA and cuDNN (to apply for newer versions just correct some paths with '../local/CUDA-8.0/..', for example...) :
 http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br>
 Remember to download cuDNN 5.1 not 6.0<br><br>
