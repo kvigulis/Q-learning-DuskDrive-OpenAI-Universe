@@ -3,7 +3,7 @@
 
 Easy to set up...
 
-Dependencies: 
+##### Dependencies: 
 
 <tab>Set up tesorflow or tensorflow-gpu:<br>
 For help refer to this slightly outdated resource on how to set up CUDA and cuDNN (to apply for newer versions just correct some paths with '../local/CUDA-8.0/..', for example...) :
