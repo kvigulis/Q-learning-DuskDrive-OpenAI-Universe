@@ -1,7 +1,7 @@
 # Q-learning-DuskDrive-OpenAI-Universe
 
 
-Very easy to set up...
+Easy to set up...
 
 Dependencies: 
 
