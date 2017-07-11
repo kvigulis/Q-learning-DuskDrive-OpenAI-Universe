@@ -6,9 +6,9 @@ Very easy to set up...
 Dependencies: 
 
 Set up tesorflow or tensorflow-gpu.<br>
-Slightly outdated resource on how to set up CUDA and cuDNN (mainly just correct some paths with 'CUDA-8.0'):
-http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br>
-Of course, OpenAI Universe. First install gym with sudo pip install -e '.[all]'.<br>
+For help refer this slightly outdated resource on how to set up CUDA and cuDNN (to apply for newer versions just correct some paths with 'local/CUDA-8.0', for example):
+http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br><br>
+Of course, OpenAI Universe. First install gym with ```sudo pip install -e '.[all]'```<br>
 Other python dependencies:<br>
 pip install numpy<br>
 pip install Pillow<br>
