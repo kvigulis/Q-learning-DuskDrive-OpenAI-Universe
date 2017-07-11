@@ -13,7 +13,7 @@ Remember to download cuDNN 5.1 not 6.0<br><br>
 * Other python dependencies:<br>
 ```sudo pip install numpy```<br>
 ```sudo pip install Pillow```<br>
-```sudo pip install scipy```<br>
+```sudo pip install scipy```<br><br>
 
 Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs of the game by default.<br><br>
 
