@@ -10,9 +10,9 @@ For help refer this slightly outdated resource on how to set up CUDA and cuDNN (
 http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br><br>
 Of course, OpenAI Universe. First install gym with ```sudo pip install -e '.[all]'```<br>
 Other python dependencies:<br>
-pip install numpy<br>
-pip install Pillow<br>
-pip install scipy<br>
+```sudo pip install numpy```<br>
+```sudo pip install Pillow```<br>
+```sudo pip install scipy```<br>
 
 Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs of the game by default.<br><br>
 
