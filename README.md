@@ -14,6 +14,8 @@ Remember to download cuDNN 5.1 not 6.0<br><br>
 ```sudo pip install numpy```<br>
 ```sudo pip install Pillow```<br>
 ```sudo pip install scipy```<br><br>
+ * To use TensorFlow in pyCharm edit project configuration and add ```LD_LIBRARY_PATH``` with ```'/usr/local/cuda-8.0/lib64'``` to the environment variables.<br><br>
+
 
 Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs of the game by default.<br><br>
 
