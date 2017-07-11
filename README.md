@@ -7,7 +7,7 @@ Dependencies:
 
 Set up tesorflow or tensorflow-gpu.<br>
 Slightly outdated resource on how to set up CUDA and cuDNN (mainly just correct some paths with 'CUDA-8.0'):
-http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/
+http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br>
 Of course, OpenAI Universe.<br>
 Other python dependencies:<br>
 pip install numpy<br>
