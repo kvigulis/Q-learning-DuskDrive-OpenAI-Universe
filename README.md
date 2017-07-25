@@ -10,7 +10,7 @@ For help refer to this slightly outdated resource on how to set up CUDA and cuDN
 http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br>
 Remember to download cuDNN 5.1 not 6.0<br><br>
 * Of course, OpenAI Universe (recommended in conda environment). Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br><br>
-* Other python dependencies:<br>
+* Other python dependencies (or just set up with Anaconda):<br>
 ```sudo pip install numpy```<br>
 ```sudo pip install Pillow```<br>
 ```sudo pip install scipy```<br><br>
