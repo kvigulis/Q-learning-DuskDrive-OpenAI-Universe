@@ -8,13 +8,14 @@ Easy to set up...
 For help refer to this slightly outdated resource on how to set up CUDA and cuDNN (to apply for newer versions just     correct some paths with '../local/CUDA-8.0/..', for example...) :
 http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br>
 Remember to download cuDNN 5.1 not 6.0<br><br>
-* Of course, OpenAI Universe (recommended in conda environment). Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br><br>
-* Other python dependencies:<br>
+* Of course, OpenAI Universe. Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br><br>
+* Python dependencies:<br>
 ```sudo pip install numpy```<br>
 ```sudo pip install Pillow```<br>
 ```sudo pip install scipy```<br>
 ...or just set up with Anaconda<br><br>
- * (For PyCharm users) To use TensorFlow in PyCharm IDE edit project configuration and add ```LD_LIBRARY_PATH``` with ```'/usr/local/cuda-8.0/lib64'``` to the environment variables.<br><br>
+ * The python file must be run as root. For running applications as root from UnityLaucher follow this: https://askubuntu.com/questions/118822/how-to-launch-application-as-root-from-unity-launcher
+ * (Might need for PyCharm users) To use TensorFlow in PyCharm IDE edit project configuration and add ```LD_LIBRARY_PATH``` with ```'/usr/local/cuda-8.0/lib64'``` to the environment variables.<br><br>
 
 
 Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs of the game by default.<br><br>
