@@ -2,7 +2,7 @@
 
 Reminder for me on fresh Ubuntu installation:<br>
 [<br> 
-Install nvidia drivers after <br>
+</t>Install nvidia drivers after <br>
 ```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
 ```sudo apt update```<br>
 and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
