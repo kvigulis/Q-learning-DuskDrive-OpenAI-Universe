@@ -2,7 +2,6 @@
 
 Easy to set up...
 
-#### Dependencies: 
 Set up tesorflow or tensorflow-gpu:<br>
 ____
 
