@@ -15,6 +15,7 @@ Remember to download cuDNN 5.1 not 6.0<br><br>
 ```sudo pip install scipy```<br>
 ...or just set up with Anaconda<br><br>
  * The python file must be run as root. For running applications as root from UnityLaucher (Ubuntu's bar on the left) follow this: https://askubuntu.com/questions/118822/how-to-launch-application-as-root-from-unity-launcher
+ * To add openGL support to go-vncdiver look here: https://github.com/openai/go-vncdriver
  * (Might need for PyCharm users) To use TensorFlow in PyCharm IDE edit project configuration and add ```LD_LIBRARY_PATH``` with ```'/usr/local/cuda-8.0/lib64'``` to the environment variables.<br><br>
 
 
