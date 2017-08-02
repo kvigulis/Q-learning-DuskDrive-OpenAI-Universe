@@ -1,6 +1,7 @@
 # Q-learning-DuskDrive-OpenAI-Universe
 
-[<br> Reminder for me on fresh Ubuntu installation:<br>
+Reminder for me on fresh Ubuntu installation:<br>
+[<br> 
 Install nvidia drivers after <br>
 ```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
 ```sudo apt update```<br>
