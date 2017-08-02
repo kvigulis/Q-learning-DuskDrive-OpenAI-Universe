@@ -18,12 +18,15 @@ ___
 Other dependecies:
 
 * Of course, OpenAI Universe. Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br>
+
+* To install go-vncdiver with OpenGL support look here: https://github.com/openai/go-vncdriver
+
 * Python dependencies (ignore if you have Anaconda):<br>
 ```sudo pip install numpy```<br>
 ```sudo pip install Pillow```<br>
 ```sudo pip install scipy```<br>
 
-* To install go-vncdiver with OpenGL support look here: https://github.com/openai/go-vncdriver
+
 * The python file must be run as root. For running applications as root from UnityLaucher (Ubuntu's bar on the left) follow this: https://askubuntu.com/questions/118822/how-to-launch-application-as-root-from-unity-launcher
  
 * (Might need for PyCharm users) To use TensorFlow in PyCharm IDE edit project configuration and add ```LD_LIBRARY_PATH``` with ```'/usr/local/cuda-8.0/lib64'``` to the environment variables.<br><br>
