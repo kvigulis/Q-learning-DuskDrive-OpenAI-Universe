@@ -28,7 +28,7 @@ This is a very plain implementation with just the minimum of code required to ru
 
 ___
 
-</i>Reminder for me a on fresh Ubuntu installation:
+</i>Reminder for me on setting up ```tensorflow-gpu``` a on fresh Ubuntu installation:
 * Install nvidia drivers after: <br>
 ```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
 ```sudo apt update```<br>
