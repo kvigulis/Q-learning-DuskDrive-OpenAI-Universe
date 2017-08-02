@@ -17,8 +17,7 @@ ___
 
 Other dependecies:
 
-* Of course, OpenAI Universe. Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br>
-
+* Of course, OpenAI Universe: https://github.com/openai/universe
 * To install go-vncdiver with OpenGL support look here: https://github.com/openai/go-vncdriver
 
 * Python dependencies (ignore if you have Anaconda):<br>
