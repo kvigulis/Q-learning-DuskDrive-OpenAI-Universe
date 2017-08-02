@@ -7,7 +7,7 @@ Easy to set up...
 * Set up tesorflow or tensorflow-gpu:<br>
 For help refer to this slightly outdated resource on how to set up CUDA and cuDNN (to apply for newer versions just     correct some paths with '../local/CUDA-8.0/..', for example...) :
 http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/<br>
-Remember to download cuDNN 5.1 not 6.0<br><br>
+Remember to download cuDNN 5.1 not 6.0<br>
 * Of course, OpenAI Universe. Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br><br>
 * Python dependencies (ignore if you have Anaconda):<br>
 ```sudo pip install numpy```<br>
