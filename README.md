@@ -15,6 +15,9 @@ and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
 * Install Anaconda x86_64.sh, follow the Tensorflow tutorial and use: https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.2.1-cp36-cp36m-linux_x86_64.whl
 to install the tensorflow-gpu version in the conda environment. 
 ___
+
+Other dependecies:
+
 * Of course, OpenAI Universe. Set it up by following instructions here: https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/First <br>
 * Python dependencies (ignore if you have Anaconda):<br>
 ```sudo pip install numpy```<br>
