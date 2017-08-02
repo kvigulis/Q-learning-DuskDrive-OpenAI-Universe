@@ -3,9 +3,10 @@
 Easy to set up...
 
 #### Dependencies: 
+Set up tesorflow or tensorflow-gpu:<br>
 ____
-* Set up tesorflow or tensorflow-gpu:<br>
-Reminder for me on setting up ```tensorflow-gpu``` a on fresh Ubuntu installation:
+
+For setting up ```tensorflow-gpu``` a on fresh Ubuntu installation:
 * Install nvidia drivers after: <br>
 ```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
 ```sudo apt update```<br>
