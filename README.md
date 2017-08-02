@@ -6,7 +6,7 @@ Easy to set up...
 
 * Set up tesorflow or tensorflow-gpu:<br>
 Reminder for me on setting up ```tensorflow-gpu``` a on fresh Ubuntu installation:
-** Install nvidia drivers after: <br>
+* Install nvidia drivers after: <br>
 ```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
 ```sudo apt update```<br>
 and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
