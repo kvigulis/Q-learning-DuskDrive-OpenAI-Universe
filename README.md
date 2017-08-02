@@ -20,7 +20,7 @@ Other dependecies:
 * Of course, OpenAI Universe: https://github.com/openai/universe
 * To install go-vncdiver with OpenGL support look here: https://github.com/openai/go-vncdriver
 
-* Python dependencies (ignore if you have Anaconda):<br>
+* (Ignore if you have Anaconda) Python dependencies :<br>
 ```sudo pip install numpy```<br>
 ```sudo pip install Pillow```<br>
 ```sudo pip install scipy```<br>
