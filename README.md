@@ -1,15 +1,5 @@
 # Q-learning-DuskDrive-OpenAI-Universe
 
-Reminder for me on fresh Ubuntu installation:
-* Install nvidia drivers after: <br>
-```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
-```sudo apt update```<br>
-and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
-* Download cuda-8.0 linux_86_64x.deb and cudnn5.1.deb and install both... restart your PC for them to work.
-* Install Anaconda x86_64.sh, follow the Tensorflow tutorial and use: https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.2.1-cp36-cp36m-linux_x86_64.whl
-to install the tensorflow-gpu version in the conda environment. The miniconda3 will belong to 'root', so change it to your user before installing tensorflow. Otherwise permission to write will be denied.<br>
-
-
 Easy to set up...
 
 #### Dependencies: 
@@ -33,3 +23,12 @@ Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs
 <i>This attempt was inspired from a tutorial by Hvass-Labs who's author is Magnus Erik Hvass Pedersen.
 
 This is a very plain implementation with just the minimum of code required to run the Q-Learning Algorithm.
+
+Reminder for me on fresh Ubuntu installation:
+* Install nvidia drivers after: <br>
+```sudo add-apt-repository ppa:graphics-drivers/ppa```<br>
+```sudo apt update```<br>
+and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
+* Download cuda-8.0 linux_86_64x.deb and cudnn5.1.deb and install both... restart your PC for them to work.
+* Install Anaconda x86_64.sh, follow the Tensorflow tutorial and use: https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.2.1-cp36-cp36m-linux_x86_64.whl
+to install the tensorflow-gpu version in the conda environment. The miniconda3 will belong to 'root', so change it to your user before installing tensorflow. Otherwise permission to write will be denied.<br>
