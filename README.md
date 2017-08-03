@@ -35,6 +35,7 @@ Run RL.py to start training the agent. TensorFlow checkpoint saved every 10 runs
 
 
 <i>This attempt was inspired from a tutorial by Hvass-Labs who's author is Magnus Erik Hvass Pedersen.
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb
 
 This is a very plain implementation with just the minimum of code required to run the Q-Learning Algorithm.
 
