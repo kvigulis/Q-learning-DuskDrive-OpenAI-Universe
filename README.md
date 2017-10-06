@@ -14,7 +14,7 @@ and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
 * Install Anaconda x86_64.sh, follow the Tensorflow tutorial and use: https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.2.1-cp36-cp36m-linux_x86_64.whl
 to install the tensorflow-gpu version in the conda environment. 
 
-Add to ".bashrc": 
+Add to ".bashrc": <br>
 ```export PATH=/home/carl/anaconda2/bin:$PATH```<br>
 
 ```export PATH=/usr/local/cuda-8.0/bin:$PATH```<br>
