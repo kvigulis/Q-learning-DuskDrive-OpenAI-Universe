@@ -15,10 +15,10 @@ and then go to 'Software & Updates', 'Additional Drivers' and choose a driver.
 to install the tensorflow-gpu version in the conda environment. 
 
 Add to ".bashrc": 
-```export PATH=/home/carl/anaconda2/bin:$PATH
+```export PATH=/home/carl/anaconda2/bin:$PATH```<br>
 
-export PATH=/usr/local/cuda-8.0/bin:$PATH
-export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH```<br>
+```export PATH=/usr/local/cuda-8.0/bin:$PATH```<br>
+```export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH```<br>
 ___
 
 Other dependecies:
